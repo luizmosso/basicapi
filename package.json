@@ -1,5 +1,5 @@
 {
-  "name": "cdcadmin",
+  "name": "basicapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
     "mongoose": "^5.0.12",
-    "node-restful": "^0.2.6"
+    "node-restful": "^0.2.6",
+    "nodemon": "^1.17.3"
   }
 }
